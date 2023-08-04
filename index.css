@@ -1,0 +1,20 @@
+h1{
+    color: orange;
+}
+input{
+    color: brown;
+    background-color: aqua;
+}
+button{
+    background-color: rgb(240, 224, 81);
+    padding: 8px;
+    border: 1cm;
+}
+div{
+    color: rgb(13, 243, 24);
+    background-color: blue;
+    margin-left: 44%;
+    margin-right: 35%;
+    margin-top: 10px;
+    padding: 10px;
+}
